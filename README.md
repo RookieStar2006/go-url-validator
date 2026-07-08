@@ -106,7 +106,3 @@ MIT License - feel free to use, modify, and distribute!
 ### Made with ❤️ by [Nikhil Khalane]
 
 **⭐ Don't forget to star this repo if you found it useful!**
-
-### Made with ❤️ by [Your Name]
-
-**⭐ Don't forget to star this repo if you found it useful!**
