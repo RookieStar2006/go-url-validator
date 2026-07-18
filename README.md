@@ -46,7 +46,7 @@ Enter your url: https://google.com
 ✅ Valid & Working URL! (Status: 200)
 
 Enter your url: invalid-url
-❌ Format galat hai! Example: https://google.com
+❌ wrong format.! Example: https://google.com
 ```
 
 ## 📸 Screenshots
